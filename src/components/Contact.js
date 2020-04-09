@@ -35,7 +35,8 @@ class Contact extends Component {
         </Fade>
 
         <span className="footer">
-          Made With ❤ by <a href="">Cliff Gor</a>
+          Made With ❤ by{" "}
+          <a href="https://cliffgorportfolio.netlify.com/">Cliff Gor</a>
         </span>
       </div>
     );

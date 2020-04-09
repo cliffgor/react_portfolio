@@ -80,5 +80,9 @@ export default {
       name: "Instagram",
       url: "https://www.instagram.com/",
     },
+    {
+      name: "Linked In",
+      url: "https://www.linkedin.com/in/cliff-gor/",
+    },
   ],
 };
