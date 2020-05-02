@@ -119,6 +119,22 @@ li .link:hover{
   text-align: left;
   width: 37em;
 }
+
+.resume-content{
+  position: relative;
+  left:15em;
+}
+
+.resume-content h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5em;
+  text-align: left;
+}
+.resume-content p{
+  font-size: 1.3em;
+  text-align: left;
+  width: 37em;
+}
 .about img{
   margin-left: 5em;
 }
@@ -227,6 +243,15 @@ nav{
   width: 300px;
 }
 
+.resume-content{
+  left:2em;
+}
+.resume-content p{
+  font-size: 3.5em;
+  text-align: left;
+  width: 300px;
+}
+
 .work{
   left:2em;
   top:2em;
@@ -302,6 +327,15 @@ nav{
   left:6em;
 }
 .about-content p{
+  font-size: 3.5em;
+  text-align: left;
+  width: 700px;
+}
+
+.resume-content{
+  left:6em;
+}
+.resume-content p{
   font-size: 3.5em;
   text-align: left;
   width: 700px;
@@ -389,6 +423,16 @@ nav li{
   text-align: left;
   width: 25em;
 }
+
+.resume-content{
+  left:10em;
+}
+
+.resume-content p{
+  font-size: 3.5em;
+  text-align: left;
+  width: 25em;
+}
 .about img{
   margin-left: 1em;
 }
@@ -429,6 +473,35 @@ height: 32em;
 }
 
 
+}
+
+#resume {
+  background: #fff;
+  padding-top: 90px;
+  padding-bottom: 72px;
+  overflow: hidden;
+}
+
+#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a:hover, #resume a:focus { color: #313131; }
+
+
+#resume h3 {
+  font: 25px/30px ;
+}
+
+
+
+#resume .info {
+  font: 16px/24px 'Montserrat', sans-serif;
+  color: #6E7881;
+  margin-bottom: 18px;
+  margin-top: 9px;
+}
+
+#resume .date {
+  font: 15px/24px 'Montserrat', sans-serif;
+  margin-top: 6px;
 }
 
 

@@ -69,6 +69,36 @@ export default {
             }
                 */
   ],
+  "work":[
+    {
+      "CompanyName":"Developer Circles from Facebook, Andela ",
+      "specialization":"PROGRAM ASSISTANT",
+      "MonthOfLeaving":"November",
+      "YearOfLeaving":"2019",
+      "Achievements":"This was a patnership between Facebook and Andela where I was given a task to teach and empower Beginner and Intermediate Developers gain skills in web development using React Js."
+    },
+    {
+      "CompanyName":"Creatives Garage",
+      "specialization":"INTERN ANDROID DEVELOPER",
+      "MonthOfLeaving":"October",
+      "YearOfLeaving":"2019",
+      "Achievements":"Developed a video on demand mobile platform which is part of their web application. Sample of work: http://kalabars.com"
+    },
+    {
+      "CompanyName":"Winnie Gor Consultancy",
+      "specialization":"SOCIAL MEDIA STRATEGIST ",
+      "MonthOfLeaving":"March",
+      "YearOfLeaving":" 2019",
+      "Achievements":"Energized social media presence through active posting of content to the social media pages andengaging with followers. Led UX research to boost product rebranding efforts. Maintained prime focus over competition with customer research on products and services"
+    },
+    {
+      "CompanyName":"Savannah Labs",
+      "specialization":"WEB DEVELOPER",
+      "MonthOfLeaving":"September",
+      "YearOfLeaving":"2018",
+      "Achievements":"Designed high-impact, user-centered web applications for SMEs and clients in the real estate and hotel industries. Sample of work: https://www.orchidhomeske.com"
+    },
+  ],
   social: [
     // Add Or Remove The Link Accordingly
     { name: "Github", url: "https://github.com/cliffgor" },
