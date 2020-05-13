@@ -1,5 +1,7 @@
 # React Portfolio Template
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2a167b9aba5644a0baec14a3c86bb369)](https://app.codacy.com/manual/cliffgor/react_portfolio?utm_source=github.com&utm_medium=referral&utm_content=cliffgor/react_portfolio&utm_campaign=Badge_Grade_Dashboard)
+
 ## Minimal Portfolio template for Developers/Designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
 Demo - https://cliffgorportfolio.netlify.com/
