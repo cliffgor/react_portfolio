@@ -232,6 +232,12 @@ nav{
       display: flex;
       top:-30em;
 }
+.aboutMe{
+  position: relative;
+  display: flex;
+  top:-30em;
+}
+
 .about img{
   display: none
 }
@@ -258,8 +264,6 @@ nav{
   text-align: left;
   width: 300px;
 }
-
-
 
 .work{
   left:2em;

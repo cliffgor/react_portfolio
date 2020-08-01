@@ -5,7 +5,7 @@ import data from '../yourdata';
 class About extends Component {
     state = {  }
     render() { 
-        return (<div className='about'>
+        return (<div className='aboutMe'>
             <div className='about-content'>
             <h1><Fade bottom cascade>About.</Fade></h1>
             <Fade bottom>
