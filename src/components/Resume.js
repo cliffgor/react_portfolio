@@ -9,7 +9,7 @@ class Resume extends Component {
     state = {  }
     render() {
         // Resume Data
-        let resumeData = this.props.data;
+        // let resumeData = this.props.data;
         return (
         
         <section className='resume' >
