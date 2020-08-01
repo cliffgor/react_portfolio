@@ -227,12 +227,19 @@ nav{
   top:1em;
   left:1em;
 }
-.about{position: relative;
+.about{
+      font-size: 3em;
       display: flex;
       top:-30em;
 }
 .about img{
   display: none
+}
+
+.about h3{
+  font-size: 3.5em;
+  text-align: left;
+  width: 300px;
 }
 .about-content{
   left:2em;
@@ -251,6 +258,8 @@ nav{
   text-align: left;
   width: 300px;
 }
+
+
 
 .work{
   left:2em;
