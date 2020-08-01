@@ -108,7 +108,7 @@ export default {
     },
     {
       name: "Instagram",
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/cliffgorcodes/",
     },
     {
       name: "Linked In",
