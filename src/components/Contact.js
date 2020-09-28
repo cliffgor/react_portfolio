@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+
 import Fade from "react-reveal/Fade";
 import data from "../yourdata";
 
@@ -36,7 +37,8 @@ class Contact extends Component {
 
         <span className="footer">
           Made With ❤ by{" "}
-          <a href="https://cliffgorportfolio.netlify.com/">Cliff Gor</a>
+          <a href="https://www.cliffgor.com/">Cliff Gor</a>
+          <a href="https://dev.to/gor_clifford"><i class="fab fa-dev" title="gor_clifford's DEV Profile"></i></a>
         </span>
       </div>
     );
