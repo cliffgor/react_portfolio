@@ -114,5 +114,9 @@ export default {
       name: "Linked In",
       url: "https://www.linkedin.com/in/cliff-gor/",
     },
+    {
+      name:"Dev.to",
+      url: "https://dev.to/gor_clifford",
+    }
   ],
 };
