@@ -524,3 +524,215 @@ height: 32em;
 }
 
 
+Large Screens
+@media only screen  and (min-device-width: 1200px) 
+and (max-device-width: 1600px) 
+and (-webkit-min-device-pixel-ratio: 2)
+and (min-resolution: 192dpi)  {
+
+
+  body{
+      font-size: 1px;
+    }
+  header h1{
+  font-size: 5em;  
+  padding: 1em;
+  margin-right: 0em;
+  }
+  
+  nav{
+    display: none;
+  }
+  .header-title{
+    font-size: 3.6em;
+    text-align: left;
+    top:1em;
+    left:1em;
+  }
+  .about{position: relative;
+        display: flex;
+        top:-10em;
+  }
+  .about img{
+    display: none
+  }
+  .about-content{
+    left:6em;
+  }
+  .about-content p{
+    font-size: 3.5em;
+    text-align: left;
+    width: 700px;
+  }
+  
+  .resume-content{
+    left:6em;
+  }
+  .resume-content p{
+    font-size: 3.5em;
+    text-align: left;
+    width: 700px;
+  }
+  
+  .work{
+    left:6em;
+    top:4em;
+    align-items: flex-start;
+  }
+  .work .work-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5em;
+  }
+  .project img{
+  width: 30em;  
+  height: 30em;
+  }
+  
+  .contact{
+    top:15em;
+    left:6em;
+  }
+  .contact h1{
+    font-size: 4em;
+  }
+  .contact .email{
+    font-size: 3.5em;
+  }
+  
+  .contact li{
+    display: block;
+    padding: 2em;
+  }
+  .contact li a{
+    font-size: 2.5em;
+  }
+  .footer{
+    top:4em;
+    padding: 1em;
+    font-size: 2em;
+  }
+  
+  }
+  
+  /* Large screens ----------- */
+  @media only screen  and (min-width : 1824px) {
+  /* Styles */
+  
+  
+  
+  body{
+      font-size: 7px;
+    }
+    header h1{
+      font-size: 3em;
+      margin-right: 25em;
+    }
+  
+  
+    nav{
+    left:60em;
+    top:12em;
+    z-index: 100;
+  }
+  nav li{
+     font-size: 3em;
+  
+  }
+  .header-title{
+    font-size: 5em;
+    top:1em;
+    left:1em;
+  }
+  .about{position: relative;
+        display: flex;
+        top:-20em;
+  }
+  .about-content{
+    left:10em;
+  }
+  .about-content p{
+    font-size: 3.5em;
+    text-align: left;
+    width: 25em;
+  }
+  
+  .resume-content{
+    left:10em;
+  }
+  
+  .resume-content p{
+    font-size: 3.5em;
+    text-align: left;
+    width: 25em;
+  }
+  .about img{
+    margin-left: 1em;
+  }
+  
+  .work{
+    left:10em;
+    top:4em;
+    align-items: flex-start;
+  }
+  .work .work-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .project img{
+  width: 32em;  
+  height: 32em;
+  }
+  
+  .contact{
+    top:10em;
+    left:8em;
+  }
+  .contact h1{
+    font-size: 8em;
+  }
+  .contact .email{
+    font-size: 5em;
+  }
+  
+  .contact li a{
+    font-size: 4em;
+    padding: 1em;
+  }
+  .footer{
+    top:4em;
+    padding: 1em;
+    font-size: 4em;
+  }
+  
+  
+  }
+  
+  #resume {
+    background: #fff;
+    padding-top: 90px;
+    padding-bottom: 72px;
+    overflow: hidden;
+  }
+  
+  #resume a, #resume a:visited  { color: #11ABB0; }
+  #resume a:hover, #resume a:focus { color: #313131; }
+  
+  
+  #resume h3 {
+    font: 25px/30px ;
+  }
+  
+  
+  
+  #resume .info {
+    font: 16px/24px 'Montserrat', sans-serif;
+    color: #6E7881;
+    margin-bottom: 18px;
+    margin-top: 9px;
+  }
+  
+  #resume .date {
+    font: 15px/24px 'Montserrat', sans-serif;
+    margin-top: 6px;
+  }
